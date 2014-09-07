@@ -1,4 +1,4 @@
-Mario-Theme
+Super mario bros 2 Overworld theme
 ===========
 
-Play the mario theme in python using sine wave beeps!
+utilizes sine waves to play part of the Overworld theme from super mario bros 2
